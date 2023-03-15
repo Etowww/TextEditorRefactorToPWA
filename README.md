@@ -12,7 +12,7 @@ If you would like to install it straight from the browser you can just click the
 
 
 ## Usage
-Link to the deployed application: ()
+Link to the deployed application: https://serene-cove-31600.herokuapp.com/
 
 The application is pretty straightforward simply type into application whatever code snippets you would like to save as notes and the text editor will highlight the syntax.
 
